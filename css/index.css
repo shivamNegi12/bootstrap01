@@ -1,0 +1,47 @@
+.row{
+    border: 3px solid black;
+}
+.col{
+    border: 2px solid red;
+}
+
+.ul_list ul{
+    list-style: none;
+    background-color: orange;
+
+
+}
+.heading {
+    background-color: skyblue;
+
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 40px;
+}
+.main_sec{
+    background-color: burlywood ;
+    
+}
+.main_sec ul {
+list-style: none;
+background-color: pink;
+}
+.footer{
+    background-color: orange;
+}
+.container
+{
+    border: 3px solid black;
+}
+/* .nav{
+    background-color: darkcyan;
+}
+.nav-link{
+    color: #fff;
+    text-transform: uppercase;
+}
+.nav-link:hover,
+.nav-link.active
+{
+    background-color: sandybrown;
+} */

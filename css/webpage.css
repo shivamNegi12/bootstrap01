@@ -1,0 +1,53 @@
+.nav-list a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+
+}
+
+.main-sec {
+    height: 100vh;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeH769zgHJKVhSLXxcIsN8cB_NAlKGJenHiQ&usqp=CAU);
+    width: 100%;
+    background-size: cover;
+}
+.line{
+    width: 70px;
+    height: 4px;
+    background-color: red;
+}
+
+.content h1 {
+    color: #ffff;
+}
+
+.content p {
+    color: #fff;
+}
+.btn{
+    border: none;
+    border-radius: 30px;
+    padding: 8px 30px;
+    color: #fff;
+    text-transform: capitalize;
+}
+.card-reper i {
+font-size: 50px;
+color: cadetblue;
+}
+.line-u{
+    width: 70px;
+    height: 4px;
+    background-color: red;
+    margin: auto;
+}
+.left-content-sec img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+}
+.img_sec img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+}

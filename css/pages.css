@@ -1,0 +1,41 @@
+.logo {
+    width: 100px;
+    height: 30px;
+}
+
+.ul-list a {
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.line {
+    width: 70px;
+    height: 3px;
+    background-color: red;
+}
+.font_osm i {
+    color: orange;
+}
+.img img{
+height: 50vh;
+width: 100%;
+}
+.button {
+    border: none;
+    background-color: aqua;
+    color: #fff;
+    border-radius: 10px;
+    text-transform: capitalize;
+    padding: 5px 25px;
+}
+.div i {
+    margin-left: 30px;
+    color: yellow;
+    font-size: 25px;
+}
+.font-font-icon i{
+   margin: 5px;
+}
+.footer_sec {
+    color: #fff;
+}
